@@ -1,0 +1,74 @@
+[
+  {
+    "category": "MACHINE",
+    "name": "M-394",
+    "productNo": "1",
+    "description": "Een manchine.",
+    "hallId": "1",
+    "lastPerformedAction": {
+      "date":"2016-01-01T20:00:00",
+      "type":"NAZICHT",
+      "description": "beschrijving controle."
+    },
+    "nextAction": {
+      "date":"2016-01-12T20:00:00",
+      "type":"NAZICHT",
+      "description": "Moet worden gecontroleerd."
+    }
+  },
+  {
+    "category": "BAND",
+    "name": "B-201",
+    "productNo": "2",
+    "description": "Een band.",
+    "hallId": "1",
+    "lastPerformedAction": {
+      "date":"2016-01-05T20:00:00",
+      "type":"NAZICHT",
+      "description": "Controle slecht."
+    },
+    "nextAction": {
+      "date":"2016-01-12T22:30:00",
+      "type":"VERVANGING",
+      "description": "Dringend vervangen."
+    }
+  },
+  {
+    "category": "LAMP",
+    "name": "L-5",
+    "productNo": "3",
+    "description": "Een lamp.",
+    "hallId": "1",
+    "lastPerformedAction": {
+      "date":"2016-01-09T12:00:00",
+      "type":"VERVANGING",
+      "description": "Lamp is vernieuwd."
+    },
+    "nextAction": {
+      "date":"2016-02-12T20:00:00",
+      "type":"NAZICHT",
+      "description": "Moet worden gecontroleerd."
+    }
+  },
+  {
+    "category": "MACHINE",
+    "name": "M-395",
+    "productNo": "4",
+    "description": "Een machine.",
+    "hallId": "2",
+    "lastPerformedAction": {
+      "date":"2016-01-01-20-08-54",
+      "type":"NAZICHT",
+      "description": "beschrijving controle."
+    },
+    "nextAction": {
+      "date":"2016-01-12-20-00-00",
+      "type":"NAZICHT",
+      "description": "Moet worden gecontroleerd."
+    },
+    "location": {
+      "startX": 50,
+      "startY": 50
+    }
+  }
+]

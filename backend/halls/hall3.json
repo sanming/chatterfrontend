@@ -1,0 +1,14 @@
+{
+  "id": "3",
+  "name": "Management",
+  "area": 25,
+  "amountItems": 2,
+  "amountItemsNeedAttention": 0,
+  "itemsId": [],
+  "dimensions": {
+    "startX":510,
+    "startY":170,
+    "width": 150,
+    "height": 150
+  }
+}

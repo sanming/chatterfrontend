@@ -1,0 +1,21 @@
+{
+  "category": "LAMP",
+  "name": "L-5",
+  "productNo": "3",
+  "description": "Een lamp.",
+  "hallId": "1",
+  "lastPerformedAction": {
+    "date":"2016-01-09-12-17-43",
+    "type":"VERVANGING",
+    "description": "Lamp is vernieuwd."
+  },
+  "nextAction": {
+    "date":"2016-03-12-20-00-00",
+    "type":"NAZICHT",
+    "description": "Moet worden gecontroleerd."
+  },
+  "location": {
+    "startX": 300,
+    "startY": 50
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "category": "MACHINE",
+  "name": "M-395",
+  "productNo": "4",
+  "description": "Een machine.",
+  "hallId": "2",
+  "lastPerformedAction": {
+    "date":"2016-01-01-20-08-54",
+    "type":"NAZICHT",
+    "description": "beschrijving controle."
+  },
+  "nextAction": {
+    "date":"2016-01-12-20-00-00",
+    "type":"NAZICHT",
+    "description": "Moet worden gecontroleerd."
+  },
+  "location": {
+    "startX": 50,
+    "startY": 50
+  }
+}

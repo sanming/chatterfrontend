@@ -1,0 +1,14 @@
+{
+  "id": "4",
+  "name": "Storage",
+  "area": 20,
+  "amountItems": 1,
+  "amountItemsNeedAttention": 1,
+  "itemsId": [],
+  "dimensions": {
+    "startX":0,
+    "startY":300,
+    "width": 300,
+    "height": 150
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "category": "BAND",
+  "name": "B-201",
+  "productNo": "2",
+  "description": "Een band.",
+  "hallId": "1",
+  "lastPerformedAction": {
+    "date":"2016-01-05-20-20-10",
+    "type":"NAZICHT",
+    "description": "Controle slecht."
+  },
+  "nextAction": {
+    "date":"2016-01-13-22-30-00",
+    "type":"VERVANGING",
+    "description": "Dringend vervangen."
+  },
+  "location": {
+    "startX": 100,
+    "startY": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "name": "Production",
+  "area": 35,
+  "amountItems": 3,
+  "amountItemsNeedAttention": 2,
+  "itemsId": [1, 2, 3],
+  "dimensions": {
+    "startX":0,
+    "startY":0,
+    "width": 600,
+    "height": 150
+  }
+}

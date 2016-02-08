@@ -1,0 +1,14 @@
+{
+  "id": "2",
+  "name": "Engine",
+  "area": 20,
+  "amountItems": 3,
+  "amountItemsNeedAttention": 1,
+  "itemsId": [4],
+  "dimensions": {
+    "startX":300,
+    "startY":0,
+    "width": 150,
+    "height": 300
+  }
+}

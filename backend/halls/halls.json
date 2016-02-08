@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Production",
+    "area": 35,
+    "amountItems": 3,
+    "amountItemsNeedAttention": 2,
+    "itemsId": [1, 2, 3],
+    "dimensions": {
+      "startX":0,
+      "startY":0,
+      "width": 600,
+      "height": 150
+    }
+  },
+  {
+    "id": "2",
+    "name": "Engine",
+    "area": 20,
+    "amountItems": 3,
+    "amountItemsNeedAttention": 1,
+    "itemsId": [4],
+    "dimensions": {
+      "startX":300,
+      "startY":0,
+      "width": 150,
+      "height": 300
+    }
+  },
+  {
+    "id": "3",
+    "name": "Management",
+    "area": 25,
+    "amountItems": 2,
+    "amountItemsNeedAttention": 0,
+    "itemsId": [],
+    "dimensions": {
+      "startX":165,
+      "startY":110,
+      "width": 150,
+      "height": 150
+    }
+  },
+  {
+    "id": "4",
+    "name": "Storage",
+    "area": 20,
+    "amountItems": 1,
+    "amountItemsNeedAttention": 1,
+    "itemsId": [],
+    "dimensions": {
+      "startX":0,
+      "startY":220,
+      "width": 300,
+      "height": 150
+    }
+  },
+  {
+    "id": "5",
+    "name": "Engine2",
+    "area": 18,
+    "amountItems": 3,
+    "amountItemsNeedAttention": 0,
+    "itemsId": [],
+    "dimensions": {
+      "startX":300,
+      "startY":220,
+      "width": 450,
+      "height": 150
+    }
+  }
+]
